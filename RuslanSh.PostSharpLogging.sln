@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuslanSh.PostSharpLogging.Test", "RuslanSh.PostSharpLogging.Test\RuslanSh.PostSharpLogging.Test.csproj", "{45CA0362-ED48-412F-8176-7845A719E165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45CA0362-ED48-412F-8176-7845A719E165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CA0362-ED48-412F-8176-7845A719E165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CA0362-ED48-412F-8176-7845A719E165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CA0362-ED48-412F-8176-7845A719E165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
